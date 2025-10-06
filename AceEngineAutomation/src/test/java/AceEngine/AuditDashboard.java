@@ -38,7 +38,7 @@ public class AuditDashboard {
 		driver.findElement(By.xpath("//span [text ()= 'FedRAMP R5 (moderate)']")).click();
 		Thread.sleep(10000);
 		driver.findElement(By.xpath("//a[text ()= 'AU']")).click();
-		Thread.sleep(10000);
+		
 
 	}
 }
