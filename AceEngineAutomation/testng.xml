@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="AceEngine.AutomatedWorkFlowSecurityTraining"/>
+      <class name="AceEngine.AuditOfAceEngine"/>
+      <class name="AceEngine.AutomatedWorkflowAndCCN"/>
+      <class name="AceEngine.AutomatedWorkflowAndAnalytics"/>
+      <class name="AceEngine.GrcAnalyticOfAceEngine"/>
+      <class name="ConsumerPage.GrcAnalyticPage"/>
+      <class name="AuditPage.SecurityPolicyPage"/>
+      <class name="ConsumerPage.AutomatedWorkflowAndAnalyticsPage"/>
+      <class name="ConsumerPage.BoundaryInventoryPage"/>
+      <class name="AuditPage.SecurityControlStackPage"/>
+      <class name="AuditPage.WorkBenchPage"/>
+      <class name="ConsumerPage.ComplianceFramworkPage"/>
+      <class name="ConsumerPage.SecurityPolicyPage"/>
+      <class name="ConsumerPage.RiskAssessmentReportPage"/>
+      <class name="ConsumerPage.WorkbenchPage"/>
+      <class name="AceEngine.DocumentOfAceEngine"/>
+      <class name="AuditPage.SystemSecurityPolicyPage"/>
+      <class name="AuditPage.BoundaryInventoryPage"/>
+      <class name="ConsumerPage.AuditDashBoardPage"/>
+      <class name="AceEngine.BoundaryInventoryOfAceEngine"/>
+      <class name="ConsumerPage.SecurityControlStackPage"/>
+      <class name="AceEngine.LoginpageAndCloudConMon"/>
+      <class name="AuditPage.LoginpageAndCloudConMonAudit"/>
+      <class name="ConsumerPage.AuditPage"/>
+      <class name="ConsumerPage.SystemSecurityPolicyPage"/>
+      <class name="AuditPage.DocumentationPage"/>
+      <class name="AuditPage.AuditPage"/>
+      <class name="AuditPage.SystenInfoPage"/>
+      <class name="AuditPage.RiskAssessmentPage"/>
+      <class name="AceEngine.AuditDashboard"/>
+      <class name="AuditPage.GrcAnalyticPage"/>
+      <class name="AceEngine.RiskAssessmentReport"/>
+      <class name="ConsumerPage.VulnerabilityMgmtPage"/>
+      <class name="AuditPage.AuditDashboardPage"/>
+      <class name="AceEngine.ConnectorOfAceEngine"/>
+      <class name="AceEngine.VulnerabilityMgmtofAceEngine"/>
+      <class name="AuditPage.AutomatedWorkflowAnalyticPage"/>
+      <class name="ConsumerPage.DocumentPage"/>
+      <class name="ConsumerPage.LoginAndCloudConMonPage"/>
+      <class name="AuditPage.ComplianceFramworkPage"/>
+      <class name="AceEngine.AutomatedWorkflowAndUAR"/>
+      <class name="AceEngine.SecurityPolicyOfAceEngine"/>
+      <class name="AceEngine.WorkbenchOfAceEngine"/>
+      <class name="AceEngine.AutomatedWorkFlowRules"/>
+      <class name="AceEngine.SecurityControlStackOfAceEngine"/>
+      <class name="AceEngine.ComplianceFramworkOfAceEngine"/>
+      <class name="ConsumerPage.SystemInfoPage"/>
+      <class name="AuditPage.VulnerabilityMgmPage"/>
+      <class name="AceEngine.SystemInfoOfAceEngine"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
